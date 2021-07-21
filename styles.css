@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 15vh;
+    width: 100wh;
+    background-color:black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 55px;
+}
+
+main{
+    height: 85vh;
+    width: 100wh;
+    background-color:wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ascii{
+    font-size: 200px;
+}
+
+.alpha{
+    font-size: 40px;
+    margin: 10px;
+}
